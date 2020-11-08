@@ -1,0 +1,28 @@
+.main{
+    padding: 10px;
+}
+.url-container{
+    margin-bottom: 20px;
+}
+.json-container{
+    width: 100%;
+    min-height: 50px;
+    border-color: #CCCCCC;
+    border-radius: 2px;
+    border-style: solid;
+    border-width: .1em;
+    margin-bottom: 20px;
+    padding: 5px;
+}
+.example{
+    margin-bottom: 20px;
+}
+.object{
+    margin-left: 2%;
+}
+.property{
+    margin-left: 2%;
+}
+.url-field{
+    width: 300px;
+}
